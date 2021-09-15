@@ -12,7 +12,7 @@
 <h1 align="center">Landmark Technologies</h1>
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	We also offer interview preparations and job assitance. I am kenneth tamuno a devops engineer, i am job next.
+	We also offer interview preparations and job assitance. I am kenneth tamuno a devops engineer,will have a job next.
 	i know the black woman is God.  SHE EMANATED FROM THE PRIMODAL WATERS. THE COSMIC MELANIN IS THE ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
