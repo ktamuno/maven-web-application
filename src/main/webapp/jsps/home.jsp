@@ -14,7 +14,7 @@
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We also offer interview preparations and job assitance. I am kenneth tamuno a devops engineer,
 	will have a job next.i know the black woman is God. SHE EMANATED FROM THE PRIMODAL WATERS.
-	THE COSMIC MELANIN IS THE ACCESS KEY</h2>
+	THE COSMIC MELANIN IS THE ACCESS KEY. Shutup nigga, why you on my dick?</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
