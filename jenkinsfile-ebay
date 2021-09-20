@@ -34,6 +34,8 @@ Build from ebay pipeline project''', subject: 'build status', to: 'developers'
     stage('8-prod-Deploy'){
       deploy adapters: [tomcat9(credentialsId: 'tomcat-credentials', path: '', url: 'http://3.23.17.74:8080/')], contextPath: null, war: 'target/*war'
      }
+/*
+*/
 */     
 }
 
