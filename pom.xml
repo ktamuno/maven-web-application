@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ebay-app</finalName>
+		<finalName>ebay-app.war</finalName>
 		
 		<plugins>
 			<plugin>
