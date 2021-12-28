@@ -3,7 +3,7 @@ node {
   stage('1-Clone') {
       git credentialsId: 'Git', url: 'https://github.com/ktamuno/maven-web-application'
   }
-  
+  /*
   stage('2-mavenBuild') {
     sh "${mavenHome}/bin/mvn clean package"
   }
@@ -32,6 +32,7 @@ Build from ebay pipeline project''', subject: 'build status', to: 'developers'
     }
     stage('8-prod-Deploy'){
       deploy adapters: [tomcat9(credentialsId: 'tomcat-credentials', path: '', url: 'http://18.220.134.79:8080/')], contextPath: null, war: 'target/*war'
+      */
      }
 }
     
