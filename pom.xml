@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ebay-app.war</finalName>
+		<finalName>maven-web-application.war</finalName>
 		
 		<plugins>
 			<plugin>
